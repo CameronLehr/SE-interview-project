@@ -1,6 +1,6 @@
 import React from 'react';
-import CardTop from './cardTop';
-import CardBottom from './cardBottom';
+import CardTop from './CardTop';
+import CardBottom from './CardBottom';
 
 const Card = ({ candidate }) => {
   return (
