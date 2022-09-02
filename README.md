@@ -20,7 +20,7 @@ The test framework included in this example repo is Jest with React Testing Libr
 Read the `TICKET.md` file to understand the feature task and its acceptance criteria. 
 
 - write down any questions you would ask for further clarification on the ticket/feature requirements or project in general.
-- add the components and code you think are necessary to implement the feature. Be intentional about your componenets and be prepared to explain why you chose the approach you did.
+- add the components and code you think are necessary to implement the feature. Be intentional about your components and be prepared to explain why you chose the approach you did.
 - write the test scenarios you think are necessary to cover the feature acceptance criteria (these can be added in a text or md file included in the project).
 - (optional) write jest tests for the test scenarios you already identified. If you want to follow TDD flow, tell us about how you did that.
 - (optional) use Material UI for styles and UI components. This will require adding additional packages to the repo
